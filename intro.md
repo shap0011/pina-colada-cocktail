@@ -18,9 +18,9 @@ To serve, pour into a cocktail glass and garnish with pineapple leaves and a mar
 You can also get creative with fun garnishes like pineapple wedges, coconut chips, and even a paper umbrella!
 
 ##  Piña Colada Recipe Instructions:
- [**Ingredients**](./ingredients/ingredients.md) 
- [**Prepare Ingredients**](./final/step-1/step-1.md) 
- [**Combine Ingredients**](./final/step-2/step-2.md) 
- [**Blend Ingredients**](./final/step-3/step-3.md) 
- [**Serve Cocktail**](./final/step-4/step-4.md) 
+ - [**Ingredients**](./ingredients/ingredients.md) 
+ - [**Prepare Ingredients**](./final/step-1/step-1.md) 
+ - [**Combine Ingredients**](./final/step-2/step-2.md) 
+ - [**Blend Ingredients**](./final/step-3/step-3.md) 
+ - [**Serve Cocktail**](./final/step-4/step-4.md) 
 
