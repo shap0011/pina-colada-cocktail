@@ -1,5 +1,5 @@
 
-# Pina Colada Cocktail Recipe [^1]
+# Pina Colada Cocktail Recipe (Final Version) [^1]
 
 ## 50ml (2fl oz) white or golden rum
 ## 50ml (2fl oz) pineapple juice
