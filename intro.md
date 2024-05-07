@@ -1,5 +1,5 @@
 
-# Pina Colada Cocktail Recipe
+# Pina Colada Cocktail Recipe [^1]
 
 ## 50ml (2fl oz) white or golden rum
 ## 50ml (2fl oz) pineapple juice
@@ -23,4 +23,6 @@ You can also get creative with fun garnishes like pineapple wedges, coconut chip
  - [**Combine Ingredients**](./final/step-2/step-2.md) 
  - [**Blend Ingredients**](./final/step-3/step-3.md) 
  - [**Serve Cocktail**](./final/step-4/step-4.md) 
+
+ [^1]: Recipe courtesty of [google.com](https://www.bing.com/search?q=pina+colada+cocktail+recipe&qs=SC&pq=pina+colada+cocktail+recipie&sc=3-28&cvid=8BCE1681355F433694979F6BF70304E3&FORM=QBRE&sp=1&ghc=1&lq=0&sm=csrmain)
 
