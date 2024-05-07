@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# Pina Colada Cocktail Recipe
-=======
+
 # Pina Colada Cocktail Recipe
 
 Method:
@@ -11,4 +9,4 @@ You can also get creative with fun garnishes like pineapple wedges, coconut chip
 
 ##  Piña Colada Recipe:
  [Ingredients](./ingredients/ingredients.md) 
->>>>>>> 0f312632978a6768302e9328b6e6e9bd1364d158
+
